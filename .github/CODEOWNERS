@@ -1,6 +1,6 @@
-* @Tweak4141 @clarkedev
+* @Tweak4141 @clarkedev @ItsukaShidouu
 
-/domains/* @is-a-good-dev/helpers
+/domains/* @ItsukaShidouu
 /.github/* @Tweak4141
 /.github/workflows/* @Tweak4141 @wdhdev
-/dnsconfig.js @Tweak4141 @wdhdev
+/dnsconfig.js @ItsukaShidouu
