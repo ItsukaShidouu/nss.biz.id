@@ -3,7 +3,7 @@
 
     "owner": {
         "username": "ItsukaShidouu",
-        "email": "nessxyz29@gmail.com"
+        "email": "support@ness.biz.id"
     },
 
     "target": {
